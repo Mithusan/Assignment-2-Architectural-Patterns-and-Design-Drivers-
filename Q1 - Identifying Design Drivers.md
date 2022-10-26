@@ -1,6 +1,6 @@
 ### Use Case Diagram & Description
 ![UseCaseDiagram](https://user-images.githubusercontent.com/115104826/197918074-377d5900-46db-428c-852e-42093c7711f9.png)
-<br></br>
+
 | Use Case | Description | Requirement|
 | :---: | --- | :---: |
 |UC-1: Start Purchasing Session| The cashier starts the purchasing session using the keyboard.| R-01|
