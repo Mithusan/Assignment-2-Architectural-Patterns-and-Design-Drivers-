@@ -1,4 +1,4 @@
-### Assignment 2: Architectural Patterns and Design Drivers
+# Assignment 2: Architectural Patterns and Design Drivers
 1. Identify the Use Cases, Quality scenarios, and Constraints of the application (these are the
 design drivers). Use the Use Case format depicted in the ADD design process and course
 notes rather than the more formal one. Include in the Use Case descriptions, quality, and
