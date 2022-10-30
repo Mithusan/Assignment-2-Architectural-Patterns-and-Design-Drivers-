@@ -11,4 +11,4 @@
 * When resetting the cart every item amount goes to zero and the shopiing process is reset.
 
 
-![image](https://user-images.githubusercontent.com/65586276/198405037-ddefa5c5-fc6e-41f0-af5e-e41f380c1fc1.png)
+![image](https://user-images.githubusercontent.com/65586276/198906638-de38ffd5-e2b0-4a69-9499-81cbe4345f1a.png)
